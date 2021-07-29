@@ -19,7 +19,7 @@ const StyledButton = withStyles({
 
 const BagPriceInfo = () => {
   return (
-    <StyledButton style={{ fontSize: '2vh' }} >R$49,99</StyledButton>
+    <StyledButton style={{ fontSize: '2vh' }} >TOTAL R$49,99</StyledButton>
   )
 }
 
